@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Akshaya Foundation",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "A charity website that rises donations and helps elderly",
+    "tags": ["PHP", "WordPress", "mongodb", "redux", "razorpay", "material-ui"],
+    "demo": "https://akshaya-foundation.org//"
+  },
+  {
+    "id": 2,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  }
+]
